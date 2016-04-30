@@ -1,4 +1,5 @@
-"# Stor-e-y1.0" 
+Stor[e]y1.0
+
 App for Location based story telling.....in development 
 
 Problem encountered: Unhandled exception error thrown due to two event listeners pointing to the same div element on the share contract.
