@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL-PC</Machine>
+    <WindowsUser>Dell</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cdacb08a-db50-4654-b757-dcdfcfaca694</PackageIdentityName>
+    <IntermediateOutputPath>E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\add.css">
+      <PackagePath>css\add.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\home.css">
+      <PackagePath>css\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\list.css">
+      <PackagePath>css\list.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\add.html">
+      <PackagePath>html\add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame2add.html">
+      <PackagePath>html\frame2add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame3add.html">
+      <PackagePath>html\frame3add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame4add.html">
+      <PackagePath>html\frame4add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame6list.html">
+      <PackagePath>html\frame6list.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame8list.html">
+      <PackagePath>html\frame8list.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame7list .html">
+      <PackagePath>html\frame7list .html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\home.html">
+      <PackagePath>html\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\homeSelector.html">
+      <PackagePath>html\homeSelector.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\list.html">
+      <PackagePath>html\list.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image1.png">
+      <PackagePath>images\image1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image2.png">
+      <PackagePath>images\image2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image3.png">
+      <PackagePath>images\image3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image4.png">
+      <PackagePath>images\image4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image5.png">
+      <PackagePath>images\image5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image6.png">
+      <PackagePath>images\image6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image7.png">
+      <PackagePath>images\image7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image8.png">
+      <PackagePath>images\image8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\add.js">
+      <PackagePath>js\add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame2add.js">
+      <PackagePath>js\frame2add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame3add.js">
+      <PackagePath>js\frame3add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame4add.js">
+      <PackagePath>js\frame4add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame6list.js">
+      <PackagePath>js\frame6list.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame8list.js">
+      <PackagePath>js\frame8list.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame7list.js">
+      <PackagePath>js\frame7list.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\home.js">
+      <PackagePath>js\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\homeselector.js">
+      <PackagePath>js\homeselector.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\list.js">
+      <PackagePath>js\list.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,64 @@
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bin\Debug\ReverseMap\resources.pri
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bin\Debug\AppxManifest.xml
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bin\Debug\RoomReminder.build.appxrecipe
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\ResourceHandlingTask.state
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\priconfig.xml
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\priconfig.xml.intermediate
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\layout.resfiles
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\layout.resfiles.intermediate
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\resources.resfiles
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\resources.resfiles.intermediate
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\pri.resfiles
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\pri.resfiles.intermediate
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Stacey Mulcahy\Documents\Visual Studio 2015\Projects\RoomReminder\RoomReminder\bld\Debug\ProjectArchitectures.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bin\Debug\ReverseMap\resources.pri
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bin\Debug\AppxManifest.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bin\Debug\RoomReminder.build.appxrecipe
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\ResourceHandlingTask.state
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\priconfig.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\priconfig.xml.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\layout.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\layout.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\resources.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\resources.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\pri.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\pri.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Ex_Files_Dev_Win_Apps\Exercise Files\Ch05\05_04\RoomReminder\RoomReminder\bld\Debug\ProjectArchitectures.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bin\Debug\ReverseMap\resources.pri
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bin\Debug\AppxManifest.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bin\Debug\RoomReminder.build.appxrecipe
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\ResourceHandlingTask.state
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\priconfig.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\priconfig.xml.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\layout.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\layout.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\resources.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\resources.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\pri.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\pri.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\qualifiers.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\qualifiers.txt.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]yRev\RoomReminder\bld\Debug\ProjectArchitectures.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bin\Debug\ReverseMap\resources.pri
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bin\Debug\AppxManifest.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bin\Debug\RoomReminder.build.appxrecipe
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\ResourceHandlingTask.state
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\priconfig.xml
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\priconfig.xml.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\layout.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\layout.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\resources.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\resources.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\pri.resfiles
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\pri.resfiles.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\qualifiers.txt.intermediate
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\RoomReminder\RoomReminder\bld\Debug\ProjectArchitectures.txt

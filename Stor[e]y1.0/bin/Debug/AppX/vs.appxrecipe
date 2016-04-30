@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DELL-PC</Machine>
+    <WindowsUser>Dell</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>cdacb08a-db50-4654-b757-dcdfcfaca694</PackageIdentityName>
+    <IntermediateOutputPath>E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>099716D0E9FA163CAB4D13D3199F4BBF1A3B191CCF15016476CB215AD1BF1856</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cdacb08a-db50-4654-b757-dcdfcfaca694_1.0.0.0_neutral__p6bgsbm8x8epa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cdacb08a-db50-4654-b757-dcdfcfaca694_p6bgsbm8x8epa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cdacb08a-db50-4654-b757-dcdfcfaca694</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Stacey Mulcahy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T07:14:17.096</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\add.css">
+      <PackagePath>css\add.css</PackagePath>
+      <Modified>2015-10-10T21:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\home.css">
+      <PackagePath>css\home.css</PackagePath>
+      <Modified>2015-10-10T21:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\list.css">
+      <PackagePath>css\list.css</PackagePath>
+      <Modified>2015-10-10T21:10:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-01-20T16:04:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-04-27T15:13:00.025</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\add.html">
+      <PackagePath>html\add.html</PackagePath>
+      <Modified>2016-01-20T17:04:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame2add.html">
+      <PackagePath>html\frame2add.html</PackagePath>
+      <Modified>2016-04-11T03:55:10.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame3add.html">
+      <PackagePath>html\frame3add.html</PackagePath>
+      <Modified>2016-04-11T04:51:25.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame4add.html">
+      <PackagePath>html\frame4add.html</PackagePath>
+      <Modified>2016-04-29T15:34:45.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame6list.html">
+      <PackagePath>html\frame6list.html</PackagePath>
+      <Modified>2016-04-30T00:32:46.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame8list.html">
+      <PackagePath>html\frame8list.html</PackagePath>
+      <Modified>2016-04-11T15:03:57.421</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\frame7list .html">
+      <PackagePath>html\frame7list .html</PackagePath>
+      <Modified>2016-04-11T02:21:26.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\home.html">
+      <PackagePath>html\home.html</PackagePath>
+      <Modified>2016-04-11T10:27:40.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\homeSelector.html">
+      <PackagePath>html\homeSelector.html</PackagePath>
+      <Modified>2016-04-10T22:21:55.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\html\list.html">
+      <PackagePath>html\list.html</PackagePath>
+      <Modified>2016-01-21T15:25:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image1.png">
+      <PackagePath>images\image1.png</PackagePath>
+      <Modified>2015-11-22T11:54:23.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image2.png">
+      <PackagePath>images\image2.png</PackagePath>
+      <Modified>2015-11-22T11:54:21.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image3.png">
+      <PackagePath>images\image3.png</PackagePath>
+      <Modified>2015-11-22T11:54:20.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image4.png">
+      <PackagePath>images\image4.png</PackagePath>
+      <Modified>2015-11-22T11:54:18.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image5.png">
+      <PackagePath>images\image5.png</PackagePath>
+      <Modified>2015-11-22T11:54:16.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image6.png">
+      <PackagePath>images\image6.png</PackagePath>
+      <Modified>2015-09-02T15:48:54.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image7.png">
+      <PackagePath>images\image7.png</PackagePath>
+      <Modified>2015-04-15T19:15:52.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\image8.png">
+      <PackagePath>images\image8.png</PackagePath>
+      <Modified>2015-03-18T13:21:31.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T21:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\add.js">
+      <PackagePath>js\add.js</PackagePath>
+      <Modified>2016-04-10T22:28:51.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-04-30T00:31:29.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame2add.js">
+      <PackagePath>js\frame2add.js</PackagePath>
+      <Modified>2016-04-11T04:17:46.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame3add.js">
+      <PackagePath>js\frame3add.js</PackagePath>
+      <Modified>2016-04-11T04:51:25.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame4add.js">
+      <PackagePath>js\frame4add.js</PackagePath>
+      <Modified>2016-04-28T11:16:40.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame6list.js">
+      <PackagePath>js\frame6list.js</PackagePath>
+      <Modified>2016-04-29T15:15:37.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame8list.js">
+      <PackagePath>js\frame8list.js</PackagePath>
+      <Modified>2016-04-11T07:10:08.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\frame7list.js">
+      <PackagePath>js\frame7list.js</PackagePath>
+      <Modified>2016-04-11T07:10:08.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\home.js">
+      <PackagePath>js\home.js</PackagePath>
+      <Modified>2016-04-11T04:51:25.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\homeselector.js">
+      <PackagePath>js\homeselector.js</PackagePath>
+      <Modified>2016-04-29T14:25:58.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\js\list.js">
+      <PackagePath>js\list.js</PackagePath>
+      <Modified>2016-01-21T10:43:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T21:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ARIGBS\Middlesex\Course material\MDA4600\Locative\Stor[e]y1.0_WinApp\Stor[e]y1.0\Stor[e]y1.0\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-26T16:36:28.991</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>This is the Frame6List Page</title>
+    <link href="/css/list.css" rel="stylesheet" />
+    <script src="/js/frame6list.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="readpage">
+        <h4 class="win-h4">Stor[e]y1.0...read tall tales here</h4>
+        <h5 class="win-h5">Find a Stor[e]y.</h5>
+      <div id="searchpage">
+                <label class="win-label">Find a Stor[e]y</label>
+                <input id="searchinput" class="win-textbox" />
+                <button id="searchbutton" class="win-button">Search</button>
+                <button id="returnbutton" class="win-button">Go Back</button>
+        </div>
+
+        <!-- The declarative markup necesary for ListView instantiation -->
+        <!-- Call WinJS.UI.processAll() in your initialization code -->
+
+    <div id="list">
+        <div class="itemTemplate" data-win-control="WinJS.Binding.Template" style="display:none">
+            
+            <h4 class="win-h4" data-win-bind="textContent: from"></h4>
+            <h6 class="win-h6" data-win-bind="textContent: from"></h6>
+        </div>
+        <div id="listView" data-win-control="WinJS.UI.ListView" class="win-selectionstylefilled" 
+             data-win-options="{
+             itemDataSource:StoreyTitleKey.storeys.dataSource,
+             itemTemplate:select('.smallListIconTextTemplate'),
+             selectionMode:'none',
+             tapBehavior:'none',
+             layout: {type: WinJS.UI.ListLayout}
+             }">
+                   
+            </div>
+                  
+    </div>   
+</body>
+</html>
+

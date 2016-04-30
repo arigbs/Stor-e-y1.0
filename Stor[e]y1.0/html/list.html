@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>This is the List Page</title>
+    <link href="/css/list.css" rel="stylesheet" />
+    <script src="/js/list.js"></script>
+</head>
+<body class="win-type-body">
+    <div id="list">
+        <div class="itemTemplate" data-win-control="WinJS.Binding.Template" style="display:none">
+            <h4 class="win-h4" data-win-bind="textContent: number"></h4>
+            <h6 class="win-h6" data-win-bind="textContent: from"></h6>
+        </div>
+        <div id="listView" data-win-control="WinJS.UI.ListView" class="win-selectionstylefilled" 
+             data-win-options="{
+             itemDataSource:RoomKey.rooms.dataSource,
+             itemTemplate:select('.itemTemplate'),
+             selectionMode:'none',
+             tapBehavior:'none',
+             layout: {type: WinJS.UI.ListLayout}
+             }"></div>
+    </div>
+</body>
+</html>
